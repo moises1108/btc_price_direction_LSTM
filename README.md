@@ -1,12 +1,7 @@
-# price_prediction
+## Capstone project: Predicting cryptocurrency prices with Reinforcement Learning
 
-# source env/bin/activate & deactivate
-# 
-#
-#
-# crypto news data source: https://www.kaggle.com/datasets/oliviervha/crypto-news
-# crypto price data: https://www.kaggle.com/datasets/svaningelgem/crypto-currencies-daily-prices?select=BTC.csv
-#
-# 
-#
-# 
+
+### Data source:
+- Crypto news data [source](https://www.kaggle.com/datasets/oliviervha/crypto-news)
+- Crypto price data [source](https://www.kaggle.com/datasets/svaningelgem/crypto-currencies-daily-prices?select=BTC.csv)
+
