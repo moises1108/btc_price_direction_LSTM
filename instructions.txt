@@ -1,6 +1,0 @@
-Activate environment: source env/bin/Activate
-Deactivate environment: Deactivate
-
-
-Add typing
-Add black/formatter
